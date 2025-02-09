@@ -1,5 +1,3 @@
-# rippletsplaygroup.github.io
-
 ![image alt](doc/assets/ripplets_logo.png.jpg)
 
 
