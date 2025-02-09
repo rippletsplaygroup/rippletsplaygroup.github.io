@@ -10,9 +10,6 @@ Ob Ihr Kind erste soziale Erfahrungen sammeln, eine neue Sprache kennenlernen od
 
 Entdecken Sie unser Angebot und lassen Sie Ihr Kind Teil einer fröhlichen und inspirierenden Gemeinschaft werden.
 
-📍 Standorte: [Ort 1] & [Ort 2]
-📆 Spielzeiten: [Details zu den Terminen]
-
 Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
 
 ## Veranstaltungsort 1
