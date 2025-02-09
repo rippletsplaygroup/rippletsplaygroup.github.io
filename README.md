@@ -17,8 +17,10 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
 
 ## Veranstaltungsort 1
 📍 Gewächshaus Kassel
+
 📆 Spielzeiten: [Details zu den Terminen]
 
 ## Veranstaltungsort 2
 📍 Gemeindehaus Harleshausen
+
 📆 Spielzeiten: [Details zu den Terminen]
