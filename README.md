@@ -1,5 +1,8 @@
 # rippletsplaygroup.github.io
 
+![image alt](doc/assets/ripplets_logo.png.jpg)
+
+
 ## Willkommen bei Ripplets – Spielerisch die Welt entdecken!
 
 Bei Ripplets dreht sich alles um gemeinsames Spielen, Entdecken und Lernen! Unsere liebevoll gestalteten Spielkreise bieten Kindern die Möglichkeit, in einer sicheren und fröhlichen Umgebung neue Freundschaften zu schließen, kreativ zu sein und spielerisch ihre Sprachfähigkeiten zu entwickeln.
