@@ -18,6 +18,6 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
 📆 Spielzeiten: [Details zu den Terminen]
 
 ## Veranstaltungsort 2
-📍 Gemeindehaus Harleshausen
+📍 Evangelisches Gemeindehaus Harleshausen
 
 📆 Spielzeiten: [Details zu den Terminen]
