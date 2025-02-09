@@ -31,6 +31,14 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
     Your email:
     <input type="email" name="email">
   </label>
+    <label>
+    Vorname:
+    <textarea name="Vorname"></textarea>
+  </label>
+    <label>
+    Nachname:
+    <textarea name="Nachname"></textarea>
+  </label>
   <label>
     Your message:
     <textarea name="message"></textarea>
