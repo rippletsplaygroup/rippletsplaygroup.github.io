@@ -22,6 +22,3 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
 📍 Evangelisches Gemeindehaus Harleshausen
 
 📆 Spielzeiten: [Details zu den Terminen]
-
-
-https://formspree.io/f/mzzdvwpd
