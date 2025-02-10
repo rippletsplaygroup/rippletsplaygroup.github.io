@@ -1,4 +1,4 @@
-![image alt](doc/assets/doc/assets/ripplets_logo.jpg)
+![image alt](doc/assets/ripplets_logo.jpg)
 
 
 ## Willkommen bei Ripplets
