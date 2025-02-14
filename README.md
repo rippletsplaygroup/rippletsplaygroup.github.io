@@ -1,7 +1,7 @@
 ![image alt](doc/assets/ripplets_logo.jpg)
 
 
-## Willkommen bei Ripplets
+## Willkommen bei Ripplets Eltern-Kind Spielkreis
 Spielerisch die Welt entdecken!
 
 Bei Ripplets dreht sich alles um gemeinsames Spielen, Entdecken und Lernen!
