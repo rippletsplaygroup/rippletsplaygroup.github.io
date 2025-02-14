@@ -29,11 +29,14 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
 >
   <label>
     Deine E-Mail/Your email:
+    <br>
     <input type="email" name="email">
     <br> 
     <label for="full-name">Vor- und Nachname/Full Name</label>
+    <br>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
-  <br> 
+  <br>
+  <br>
     <label>
     Bitte wähle den Kurs aus, für den du dich registrieren möchtest:/
   <br>       
@@ -55,7 +58,8 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
     <br> 
     <label>
     Zusatzinformationen/Additional information:
-    <textarea name="message"></textarea>
+      <br>
+      <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
       <br> 
