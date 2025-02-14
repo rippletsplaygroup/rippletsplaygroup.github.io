@@ -34,7 +34,7 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
 
 
 
-### Melden Sie sich zu den Veranstaltungen bitte über das folgende Formular an:
+## Melden Sie sich zu den Veranstaltungen bitte über das folgende Formular an:
 
 <form
   action="https://formspree.io/f/mzzdvwpd"
