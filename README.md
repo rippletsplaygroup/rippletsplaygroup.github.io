@@ -32,14 +32,12 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
     <input type="email" name="email">
     <br> 
     <label for="full-name">Full Name</label>
-  <br>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
   <br> 
     <label>
     Please select the course you want to register for:
     <br> 
-    <input type="checkbox" name="urgent" value="yes"> 
-    <br>
+    <input type="checkbox" name="urgent" value="yes">
     Deutsch 14:00-15:00 (1-2 Jahre)
  </label>
     <br> 
@@ -58,5 +56,6 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
     <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+      <br> 
+    <button type="submit">Send</button>
 </form>
