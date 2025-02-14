@@ -66,4 +66,3 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
   <!-- your other form fields go here -->
       <br> 
     <button type="submit">Send</button>
-</form>
