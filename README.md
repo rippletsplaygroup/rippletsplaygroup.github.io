@@ -31,6 +31,7 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
     Deine E-Mail/Your email:
     <br>
     <input type="email" name="email">
+  <br>
     <br> 
     <label for="full-name">Vor- und Nachname/Full Name</label>
     <br>
@@ -55,6 +56,7 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
     <input type="checkbox" name="GHEN1503" value="yes"> 
     English 15:00-16:00 (1-3 Years)
  </label>
+      <br>
     <br> 
     <label>
     Zusatzinformationen/Additional information:
