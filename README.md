@@ -30,11 +30,13 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
   <label>
     Your email:
     <input type="email" name="email">
-  <label for="full-name">Full Name</label>
+    <br> 
+    <label for="full-name">Full Name</label>
   <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
   <br> 
     <label>
     Please select the course you want to register for:
+        <br> 
     <input type="checkbox" name="urgent" value="yes"> 
     Deutsch 14:00-15:00 (1-2 Jahre)
  </label>
