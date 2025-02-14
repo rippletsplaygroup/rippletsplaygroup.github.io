@@ -13,7 +13,7 @@ Entdecken Sie unser Angebot und lassen Sie Ihr Kind Teil einer fröhlichen und i
 
 Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
 
-## Veranstaltungsort 1
+## Veranstaltungsort 1 (Deutsch)
 📍 Evangelisches Gemeindehaus Harleshausen, Karlshafener Str. 4, 34128 Kassel
 
 📆 Spielzeiten: Dienstags, 14:00-15:00 (1-2 Jahre), 15:00-16:00 (2-3 Jahre)
@@ -22,7 +22,7 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
 
 📂 Flyer zum Download: <a href="doc/assets/RippletsFlyerDeutsch.png">Ripplets Flyer Deutsch</a>
 
-## Veranstaltungsort 2 (Aktuell nur Voranmeldungen)
+## Veranstaltungsort 2 (Englisch, Aktuell nur Voranmeldungen)
 📍 Gewächshaus e.V., Wolfsschlucht 18a, 34117 Kassel 
 
 📆 Spielzeiten: [Genaue Kursdetails folgen zu einem späteren Zeitpunkt] (1-3 Jahre)
