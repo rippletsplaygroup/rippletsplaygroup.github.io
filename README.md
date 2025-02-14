@@ -33,6 +33,10 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
   <label for="full-name">Full Name</label>
   <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
   <label>
+    <input type="checkbox" name="urgent" value="yes"> 
+    My problem is urgent! 
+ </label>
+    <label>
     Your message:
     <textarea name="message"></textarea>
   </label>
