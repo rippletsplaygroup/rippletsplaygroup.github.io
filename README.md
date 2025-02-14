@@ -20,7 +20,7 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
 
 🚀 Erster Termin: 01.04.2025 (10 Termine insgesamt)
 
-📂 Flyer zum Download: Klick <a href="doc/assets/RippletsFlyerDeutsch.png">Ripplets Flyer Deutsch</a>
+📂 Flyer zum Download: <a href="doc/assets/RippletsFlyerDeutsch.png">Ripplets Flyer Deutsch</a>
 
 ## Veranstaltungsort 2 (Aktuell nur Voranmeldungen)
 📍 Gewächshaus e.V., Wolfsschlucht 18a, 34117 Kassel 
@@ -29,7 +29,7 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
 
 🚀 Erster Termin: ~ April 2025 (vorgemerkt)
 
-📂 Flyer zum Download: Klick <a href="doc/assets/RippletsFlyerEnglish.png">Ripplets Flyer English</a>
+📂 Flyer zum Download: <a href="doc/assets/RippletsFlyerEnglish.png">Ripplets Flyer English</a>
 
 <form
   action="https://formspree.io/f/mzzdvwpd"
