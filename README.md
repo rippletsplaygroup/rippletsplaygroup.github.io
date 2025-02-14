@@ -30,7 +30,8 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
   <label>
     Your email:
     <input type="email" name="email">
-<label for="full-name">Full Name</label>
+  <label for="full-name">Full Name</label>
+  <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
   <label>
     Your message:
     <textarea name="message"></textarea>
