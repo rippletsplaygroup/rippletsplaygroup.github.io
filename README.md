@@ -32,12 +32,14 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
     <input type="email" name="email">
     <br> 
     <label for="full-name">Full Name</label>
-  <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+  <br>
+    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
   <br> 
     <label>
     Please select the course you want to register for:
-        <br> 
+    <br> 
     <input type="checkbox" name="urgent" value="yes"> 
+    <br>
     Deutsch 14:00-15:00 (1-2 Jahre)
  </label>
     <br> 
@@ -48,7 +50,7 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
     <br>
     <label>
     <input type="checkbox" name="urgent" value="yes"> 
-    English 15:00-16:00 (2-3 Jahre)
+    English 15:00-16:00 (1-3 Years)
  </label>
     <br> 
     <label>
