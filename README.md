@@ -37,17 +37,17 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
     <label>
     Please select the course you want to register for:
     <br> 
-    <input type="checkbox" name="urgent" value="yes">
+    <input type="checkbox" name="EKDE1401" value="yes">
     Deutsch 14:00-15:00 (1-2 Jahre)
  </label>
     <br> 
     <label>
-    <input type="checkbox" name="urgent" value="yes"> 
+    <input type="checkbox" name="EKDE1502" value="yes"> 
     Deutsch 15:00-16:00 (2-3 Jahre)
  </label>
     <br>
     <label>
-    <input type="checkbox" name="urgent" value="yes"> 
+    <input type="checkbox" name="GHEN1503" value="yes"> 
     English 15:00-16:00 (1-3 Years)
  </label>
     <br> 
