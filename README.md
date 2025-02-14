@@ -32,9 +32,7 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
 📂 Flyer zum Download: <a href="doc/assets/RippletsFlyerEnglish.png">Ripplets Flyer English</a>
 
 
-
-
-Melden Sie sich zu den Veranstaltungen bitte über das folgende Formular an:
+# Melden Sie sich zu den Veranstaltungen bitte über das folgende Formular an:
 
 <form
   action="https://formspree.io/f/mzzdvwpd"
