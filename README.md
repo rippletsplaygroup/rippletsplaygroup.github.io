@@ -18,7 +18,7 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
 
 📆 Spielzeiten: Dienstags, 14:00-15:00 (1-2 Jahre), 15:00-16:00 (2-3 Jahre)
 
-🚀 Erster Termin: 01.04.2025 (10 Termine insgesamt)
+🚀 Erster Termin: 22.04.2025 (10 Termine insgesamt)
 
 📂 Flyer zum Download: <a href="doc/assets/RippletsFlyerDeutsch.png">Ripplets Flyer Deutsch</a>
 
@@ -57,17 +57,17 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
     Please select the course you want to register for:
     <br> 
     <input type="checkbox" name="EKDE1401" value="yes">
-    Deutsch 14:00-15:00 (1-2 Jahre)
+    Deutsch 14:00-15:00 (1-2 Jahre), Start 22.04.2025
  </label>
     <br> 
     <label>
     <input type="checkbox" name="EKDE1502" value="yes"> 
-    Deutsch 15:00-16:00 (2-3 Jahre)
+    Deutsch 15:00-16:00 (2-3 Jahre), Start 22.04.2025
  </label>
     <br>
     <label>
     <input type="checkbox" name="GHEN1503" value="yes"> 
-    English (1-3 Years)
+    English (1-3 Years), Start ~04.2025
  </label>
       <br>
     <br> 
