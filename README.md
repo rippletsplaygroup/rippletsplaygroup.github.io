@@ -57,12 +57,12 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
     Please select the course you want to register for:
     <br> 
     <input type="checkbox" name="EKDE1401" value="yes">
-    Deutsch 14:00-15:00 (1-2 Jahre), Start 22.04.2025
+    Deutsch 14:00-15:00 (1-2 Jahre)
  </label>
     <br> 
     <label>
     <input type="checkbox" name="EKDE1502" value="yes"> 
-    Deutsch 15:00-16:00 (2-3 Jahre), Start 22.04.2025
+    Deutsch 15:00-16:00 (2-3 Jahre)
  </label>
     <br>
     <label>
