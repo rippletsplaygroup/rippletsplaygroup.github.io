@@ -18,16 +18,16 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
 
 📆 Spielzeiten: Dienstags, 14:00-15:00 (1-2 Jahre), 15:00-16:00 (2-3 Jahre)
 
-🚀 Erster Termin: 22.04.2025 (10 Termine insgesamt)
+🚀 Erster Termin: 22.04.2025 (10 Termine insgesamt, 10 Teilnehmer pro Kurs)
 
 📂 Flyer zum Download: <a href="doc/assets/RippletsFlyerDeutsch.png">Ripplets Flyer Deutsch</a>
 
 ## Veranstaltungsort 2 (Englisch, Aktuell nur Voranmeldungen)
 📍 Gewächshaus e.V., Wolfsschlucht 18a, 34117 Kassel 
 
-📆 Spielzeiten: [Genaue Kursdetails folgen zu einem späteren Zeitpunkt] (1-3 Jahre)
+📆 Spielzeiten: Mittwochs, 15:00-16:00 (1-3 Jahre)
 
-🚀 Erster Termin: ~ April 2025 (vorgemerkt)
+🚀 Erster Termin: 09.04.2025 (10 Termine insgesamt, 10 Teilnehmer pro Kurs)
 
 📂 Flyer zum Download: <a href="doc/assets/RippletsFlyerEnglish.png">Ripplets Flyer English</a>
 
