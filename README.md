@@ -67,7 +67,7 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
     <br>
     <label>
     <input type="checkbox" name="GHEN1503" value="yes"> 
-    English (1-3 Years)
+    English 15:00-16:00 (1-3 Years)
  </label>
       <br>
     <br> 
