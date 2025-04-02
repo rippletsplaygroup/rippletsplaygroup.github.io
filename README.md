@@ -27,7 +27,7 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
 
 📆 Spielzeiten: Mittwochs, 15:00-16:00 (1-3 Jahre)
 
-🚀 Erster Termin: 09.04.2025 (10 Termine insgesamt, 10 Teilnehmer pro Kurs)
+🚀 Erster Termin: 07.05.2025 (10 Termine insgesamt, 10 Teilnehmer pro Kurs)
 
 📂 Flyer zum Download: <a href="doc/assets/RippletsFlyerEnglish.png">Ripplets Flyer English</a>
 
