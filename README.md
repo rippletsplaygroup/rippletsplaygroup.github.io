@@ -17,7 +17,7 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
 ## Veranstaltungsort (Englisch, Aktuell nur Voranmeldungen)
 📍 Gewächshaus e.V., Wolfsschlucht 18a, 34117 Kassel 
 
-📂 Flyer zum Download: <a href="doc/assets/RippletsFlyerEnglish.png">Ripplets Flyer English</a>
+📂 Flyer zum Download: <a href="doc/assets/RippletsFlyerEnglish.png">Ripplets Flyer</a>
 
 Gruppe 1
 📆 Spielzeiten: 30.03.2026-02.04.2026, 09:00-12:00 (Alter 4-7 Jahre)
