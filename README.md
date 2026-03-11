@@ -55,17 +55,12 @@ Gruppe 2
     Please select the course you want to register for:
     <br> 
     <input type="checkbox" name="EKDE1401" value="yes">
-    Deutsch 14:00-15:00 (1-2 Jahre)
+    Erster Termin: 30.03.2026
  </label>
     <br> 
     <label>
     <input type="checkbox" name="EKDE1502" value="yes"> 
-    Deutsch 15:00-16:00 (2-3 Jahre)
- </label>
-    <br>
-    <label>
-    <input type="checkbox" name="GHEN1503" value="yes"> 
-    English 15:00-16:00 (1-3 Years)
+    Erster Termin: 07.04.2026
  </label>
       <br>
     <br> 
