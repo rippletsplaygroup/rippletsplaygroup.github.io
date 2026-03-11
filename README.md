@@ -1,4 +1,4 @@
-![image alt](doc/assets/logo_ripplets.jpg)
+![image alt](doc/assets/logo_ripplets.png)
 
 
 ## Willkommen beim Ripplets Kinder-Spielkreis
