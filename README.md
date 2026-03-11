@@ -1,7 +1,7 @@
 ![image alt](doc/assets/logo_ripplets.jpg)
 
 
-## Willkommen beim Ripplets Eltern-Kind Spielkreis
+## Willkommen beim Ripplets Kinder-Spielkreis
 Spielerisch die Welt entdecken!
 
 Bei Ripplets dreht sich alles um gemeinsames Spielen, Entdecken und Lernen!
@@ -14,17 +14,20 @@ Entdecken Sie unser Angebot und lassen Sie Ihr Kind Teil einer fröhlichen und i
 Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
 
 
-## Veranstaltungsort (Englisch, Aktuell nur Voranmeldungen)
+## Veranstaltungsort
 📍 Gewächshaus e.V., Wolfsschlucht 18a, 34117 Kassel 
 
 📂 Flyer zum Download: <a href="doc/assets/flyer_1.png">Ripplets Flyer</a>
 
-Gruppe 1<br>
+
+## Gruppe 1<br>
+
 📆 Spielzeiten: 30.03.2026-02.04.2026, 09:00-12:00 (Alter 4-7 Jahre)
 
 🚀 Erster Termin: 30.03.2026 (4 Termine insgesamt)
 
-Gruppe 2<br>
+## Gruppe 2<br>
+
 📆 Spielzeiten: 07.04.2026-09.04.2026, 09:00-12:00 (Alter 4-7 Jahre)
 
 🚀 Erster Termin: 07.04.2026 (4 Termine insgesamt)
