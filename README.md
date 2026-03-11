@@ -1,4 +1,4 @@
-![image alt](doc/assets/ripplets_logo.jpg)
+![image alt](doc/assets/logo_ripplets.jpg)
 
 
 ## Willkommen beim Ripplets Eltern-Kind Spielkreis
