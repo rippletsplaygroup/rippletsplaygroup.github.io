@@ -19,12 +19,12 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
 
 📂 Flyer zum Download: <a href="doc/assets/flyer_1.png">Ripplets Flyer</a>
 
-Gruppe 1
+Gruppe 1<br>
 📆 Spielzeiten: 30.03.2026-02.04.2026, 09:00-12:00 (Alter 4-7 Jahre)
 
 🚀 Erster Termin: 30.03.2026 (4 Termine insgesamt)
 
-Gruppe 2
+Gruppe 2<br>
 📆 Spielzeiten: 07.04.2026-09.04.2026, 09:00-12:00 (Alter 4-7 Jahre)
 
 🚀 Erster Termin: 07.04.2026 (4 Termine insgesamt)
