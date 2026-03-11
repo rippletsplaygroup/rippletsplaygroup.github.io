@@ -58,12 +58,12 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
     Please select the course you want to register for:
     <br> 
     <input type="checkbox" name="Gruppe 1" value="yes">
-    Erster Termin: 30.03.2026
+    Gruppe 1, Erster Termin: 30.03.2026
  </label>
     <br> 
     <label>
     <input type="checkbox" name="Gruppe 2" value="yes"> 
-    Erster Termin: 07.04.2026
+    Gruppe 2, Erster Termin: 07.04.2026
  </label>
       <br>
     <br> 
