@@ -17,7 +17,7 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
 ## Veranstaltungsort
 📍 Gewächshaus e.V., Wolfsschlucht 18a, 34117 Kassel 
 
-📂 Flyer zum Download: <a href="doc/assets/flyer_1.png">Ripplets Flyer</a>
+📂 Flyer zum Download: <a href="doc/assets/flyer_2.png">Ripplets Flyer</a>
 
 
 ## Gruppe 1<br>
