@@ -28,7 +28,7 @@ Wir freuen uns darauf, Sie und Ihr Kind bei Ripplets willkommen zu heißen!
 
 ## Gruppe 2<br>
 
-📆 Spielzeiten: 07.04.2026-09.04.2026, 09:00-12:00 (Alter 4-7 Jahre)
+📆 Spielzeiten: 07.04.2026-10.04.2026, 09:00-12:00 (Alter 4-7 Jahre)
 
 🚀 Erster Termin: 07.04.2026 (4 Termine insgesamt)
 
